@@ -57,6 +57,10 @@
   cursor:pointer;
 }
 
+.quote--credits-container:hover{
+  background-color: #272727;
+}
+
 .quote--credits{
   padding-left:90px;
 }
