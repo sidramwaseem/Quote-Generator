@@ -37,7 +37,8 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/sidramwaseem/Quote-Generator/blob/main/preview/preview1.png?raw=true)
+![screenshot](https://github.com/sidramwaseem/Quote-Generator/blob/main/preview/preview2.png?raw=true)
 
 This challenge by devChallenges.io indeed improved my logic building in react and also polished API fetching. 
 
